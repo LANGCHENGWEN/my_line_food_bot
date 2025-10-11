@@ -81,10 +81,10 @@
 
 ```bash
 # 建立虛擬環境
-python -m venv my_venv
+python -m venv my_env
 
 #（Windows）啟動虛擬環境 (Linux 或 macOS 用 source venv/bin/activate)
-my_venv\Scripts\activate
+my_env\Scripts\activate
 
 # 安裝所有依賴套件
 pip install -r requirements.txt
